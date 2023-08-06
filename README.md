@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @xprotonium
-- 👀 I am learning unity and hoping to be a game dev one day
-- 🌱 I’m currently learning Unity 2D
+- Learning.
