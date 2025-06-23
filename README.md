@@ -1,6 +1,6 @@
 # Hey there, I'm Ali!
 
-I'm a student at **Multimedia University**, currently in my foundation year and grinding my way toward becoming a **Full Stack Software Engineer**.
+I'm a student at **Multimedia University**, currently in my foundation year.
 
 ## What I'm up to
 - Diving deep into **Python**, **Web Frontend**, and **Backend** development  
